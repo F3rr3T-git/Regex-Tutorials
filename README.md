@@ -1,4 +1,4 @@
-# Rege
+# Regex
 
 
 ### Important Links to learn Regular Experssions:
