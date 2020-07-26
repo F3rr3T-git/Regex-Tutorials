@@ -10,8 +10,6 @@ Ever wished you could shrink the array so that you could save all the extra spac
 
     vector< Data_Type > Vector_Name; // Example : vector<int> v;
 
-
-
 As you can see above it’s not compulsory to specify the size of the vector although we can do so.
 
   
