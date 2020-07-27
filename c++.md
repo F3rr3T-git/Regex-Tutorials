@@ -535,36 +535,3 @@ This method can only be used once as after it the stack eventually becomes empty
 | [stk.top()](http://www.cplusplus.com/reference/stack/stack/top/) | This function returns the value of the element at top/end of the stack |
 | [stk.size()](http://www.cplusplus.com/reference/stack/stack/size/) | This function returns total number of elements present in the stack |
 |[ stk.empty()](http://www.cplusplus.com/reference/stack/stack/empty/) | This function returns true if the stack is empty and false if it's not |
-
-
-
-  
-
-  
-
-
-
-  
-
-
-
-  
-
-
-
-  
-
-
-
-  
-
-
-
-  
-
-
-
-  
-
-
-> Written with [StackEdit](https://stackedit.io/).
